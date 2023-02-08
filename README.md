@@ -38,4 +38,6 @@ Creating an animation video related to the Quran using Python would require a si
 
 Since creating an animation video is a complex and time-consuming process, it's important to have a strong understanding of both programming and animation concepts before attempting to create a Quran-related animation using Python.
 
-Here is a simple example of how you could use Python and the Matplotlib library to create an animation:
+----
+----
+This code creates an animation of a ball that bounces up and down. The ball is represented by a circle marker, and the animation is controlled by the animate function, which updates the position of the marker over time. The FuncAnimation class is used to control the animation, and the animation is displayed in a window using the plt.show() command.
